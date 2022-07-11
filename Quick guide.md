@@ -1,0 +1,9 @@
+# Welcome to my Projects repository 
+
+## Here you will find all my current and future analytics project's short description and direct links to each:
+- The Data cleaning and transformation notebook contains a step-by-step explanation about these topics using a customer data from an insurance company
+- To view the notebook above please [click here](#)
+- The EDA and visualization notebook contains a customer analysis by showcasing exploratory data analysis with visualization
+- To view the notebook above please [click here](#)
+- The Linear regression notebook follows the customer data from the EDA and builds a linear model
+- To view the notebook above please [click here](#)
