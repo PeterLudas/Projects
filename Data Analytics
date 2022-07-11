@@ -2,4 +2,5 @@
 
 ## Here you will find all my current and future analytics projects:
 - The Data cleaning and transformation notebook contains a step-by-step explanation about these topics using a customer data from an insurance company
-- The EDA and visualization notebook
+- The EDA and visualization notebook contains a customer analysis by showcasing exploratory data analysis with visualization
+- The Linear regression notebook follows the customer data from the EDA and builds a linear model 
