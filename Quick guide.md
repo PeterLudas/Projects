@@ -11,10 +11,6 @@
   To view the notebook above please [click here](https://github.com/PeterLudas/Projects/blob/274363716be0c3a3b2cef828afb96c6e6808988c/Data%20Analytics/EDA%20and%20visualization.ipynb)
   
   
-- The **Linear regression notebook** follows the customer data from the EDA and builds a linear model
-  
-  To view the notebook above please [click here](https://github.com/PeterLudas/Projects/blob/274363716be0c3a3b2cef828afb96c6e6808988c/Data%20Analytics/Linear%20Regression.ipynb)
-  
 - The **bike parts** notebook is a sales analysis of motorbike parts
 
   To view the notebook above please [click here](https://github.com/PeterLudas/Projects/blob/main/Data%20Analytics/bike_parts.ipynb)
