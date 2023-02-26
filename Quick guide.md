@@ -19,5 +19,10 @@
     *- Tools used: SQL, Python, Numpy, Pandas, Matplotlib, Seaborn, Tableau, Google Slides*
 [Click here to see this presentation](https://github.com/PeterLudas/Projects/blob/main/Data%20Analytics/Lego%20Ppt-playful.pdf)
 
+- The **intelligence_tool_demo.xlxs** is an excel file is a showcase of a reporting tool that was created for the training department of **Business Streams** 
+    *- Tools used: Office 365, Office 2019*
+    *- Please note: The database connector for employee data is not implemented on this demo and for data protection porpuses fictive details were used, also the tool has to be downward compatible to Office 2019 and thus workarounds and less efficent formulas were used in some cases (ie. no  dynamic filters are available prior Office 2021)*
+[Click here to download this spreadsheet](https://github.com/PeterLudas/Projects/blob/main/Data%20Analytics/intelligence_tool_demo.xlsx)
+
 
 #### This quickguide and my project repository will be updated frequently with new projects, please feel free to check back later!
