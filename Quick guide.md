@@ -1,4 +1,4 @@
-# Welcome to my Project repository 
+# Welcome to my Projects repository 
 
 ## Here you will find all my current and future analytics projects short description and direct links to each:
 - The **Data cleaning and transformation notebook** contains a step-by-step explanation about these topics using a customer data from an insurance company
